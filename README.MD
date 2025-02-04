@@ -5,9 +5,9 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 
 
 ## Purpose
-**Live-** [sorting visualizer](https://antrikshguleria.github.io/sortingvisualizer/) 
+**Live-** [sorting visualizer](https://sorting-visualizer-xi-two.vercel.app/) 
 
-**Code-** [sort visualizer code](https://github.com/Antrikshguleria/sortingvisualizer)
+**Code-** [sort visualizer code](https://github.com/Yashgoyal2703)
 
 I made this sorting visualizer web application to improve my skills more in
 HTML, CSS, and JS. And to help the beginners in programming to gain more knowledge and understanding on sorting algorithms by visualizing them.
